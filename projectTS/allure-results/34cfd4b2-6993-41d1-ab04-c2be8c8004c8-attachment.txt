@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"WebTable\"}\n  (Session info: chrome=120.0.6099.71)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF777AA4D02+56194]\n\t(No symbol) [0x00007FF777A104B2]\n\t(No symbol) [0x00007FF7778B76AA]\n\t(No symbol) [0x00007FF7779016D0]\n\t(No symbol) [0x00007FF7779017EC]\n\t(No symbol) [0x00007FF777944D77]\n\t(No symbol) [0x00007FF777925EBF]\n\t(No symbol) [0x00007FF777942786]\n\t(No symbol) [0x00007FF777925C23]\n\t(No symbol) [0x00007FF7778F4A45]\n\t(No symbol) [0x00007FF7778F5AD4]\n\tGetHandleVerifier [0x00007FF777E1D5BB+3695675]\n\tGetHandleVerifier [0x00007FF777E76197+4059159]\n\tGetHandleVerifier [0x00007FF777E6DF63+4025827]\n\tGetHandleVerifier [0x00007FF777B3F029+687785]\n\t(No symbol) [0x00007FF777A1B508]\n\t(No symbol) [0x00007FF777A17564]\n\t(No symbol) [0x00007FF777A176E9]\n\t(No symbol) [0x00007FF777A08094]\n\tBaseThreadInitThunk [0x00007FFDCC95257D+29]\n\tRtlUserThreadStart [0x00007FFDCD4EAA58+40]\n"
+}

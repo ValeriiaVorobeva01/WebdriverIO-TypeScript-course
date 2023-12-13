@@ -1,0 +1,7 @@
+{
+  "name": "newProject",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^8.26.1"
+  }
+}
