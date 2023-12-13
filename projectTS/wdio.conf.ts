@@ -32,7 +32,7 @@ export const config: Options.Testrunner = {
     //
     specs: [
         // './test/specs/**/sauseDemoLogin.ts'
-        './test/specs/samples/selector.ts'
+        './test/specs/course/Selectors.ts'
     ],
     // Patterns to exclude.
     exclude: [

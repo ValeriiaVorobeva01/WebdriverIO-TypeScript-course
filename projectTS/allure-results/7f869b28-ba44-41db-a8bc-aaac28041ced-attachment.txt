@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"SignUp Form\"}\n  (Session info: chrome=120.0.6099.71)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6A1AB4D02+56194]\n\t(No symbol) [0x00007FF6A1A204B2]\n\t(No symbol) [0x00007FF6A18C76AA]\n\t(No symbol) [0x00007FF6A19116D0]\n\t(No symbol) [0x00007FF6A19117EC]\n\t(No symbol) [0x00007FF6A1954D77]\n\t(No symbol) [0x00007FF6A1935EBF]\n\t(No symbol) [0x00007FF6A1952786]\n\t(No symbol) [0x00007FF6A1935C23]\n\t(No symbol) [0x00007FF6A1904A45]\n\t(No symbol) [0x00007FF6A1905AD4]\n\tGetHandleVerifier [0x00007FF6A1E2D5BB+3695675]\n\tGetHandleVerifier [0x00007FF6A1E86197+4059159]\n\tGetHandleVerifier [0x00007FF6A1E7DF63+4025827]\n\tGetHandleVerifier [0x00007FF6A1B4F029+687785]\n\t(No symbol) [0x00007FF6A1A2B508]\n\t(No symbol) [0x00007FF6A1A27564]\n\t(No symbol) [0x00007FF6A1A276E9]\n\t(No symbol) [0x00007FF6A1A18094]\n\tBaseThreadInitThunk [0x00007FFDCC95257D+29]\n\tRtlUserThreadStart [0x00007FFDCD4EAA58+40]\n"
+}

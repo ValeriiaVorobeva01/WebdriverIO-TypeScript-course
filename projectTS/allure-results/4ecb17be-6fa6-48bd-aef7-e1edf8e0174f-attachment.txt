@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "table[id='table01'] tr:nth-child(2) td:nth-child(3)"
+}

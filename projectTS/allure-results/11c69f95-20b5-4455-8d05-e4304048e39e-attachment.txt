@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[role=\"link\"],a[href],area[href]"
+}
