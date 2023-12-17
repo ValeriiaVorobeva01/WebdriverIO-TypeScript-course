@@ -34,7 +34,7 @@ export const config: Options.Testrunner = {
         // './test/specs/**/sauseDemoLogin.ts'
         // './test/specs/test.e2e.ts'
         // './test/specs/InvalidLogin.e2e.ts'
-        './test/specs/course/MultipleEl.ts' 
+        './test/specs/course/dropdown.ts' 
     ],
     // Patterns to exclude.
     exclude: [
