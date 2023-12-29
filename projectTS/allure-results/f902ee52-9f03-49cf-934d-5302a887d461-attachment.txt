@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#lcg_interactive_71703828966277"
+}

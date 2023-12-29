@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".lcg-password group-user-data__input ym-hide-content ng-untouched ng-pristine ng-invalid"
+}

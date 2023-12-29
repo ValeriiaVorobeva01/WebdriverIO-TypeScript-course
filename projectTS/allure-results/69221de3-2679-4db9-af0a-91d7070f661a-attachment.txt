@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "button[class='lcg-button__wrapper ng-star-inserted'][css='6']"
+}

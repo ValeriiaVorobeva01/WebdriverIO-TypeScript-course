@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"input[class='lcg-button__wrapper ng-star-inserted']\"}\n  (Session info: chrome=120.0.6099.130)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7E0932142+3514994]\n\t(No symbol) [0x00007FF7E0550CE2]\n\t(No symbol) [0x00007FF7E03F76AA]\n\t(No symbol) [0x00007FF7E0441860]\n\t(No symbol) [0x00007FF7E044197C]\n\t(No symbol) [0x00007FF7E0484EE7]\n\t(No symbol) [0x00007FF7E046602F]\n\t(No symbol) [0x00007FF7E04828F6]\n\t(No symbol) [0x00007FF7E0465D93]\n\t(No symbol) [0x00007FF7E0434BDC]\n\t(No symbol) [0x00007FF7E0435C64]\n\tGetHandleVerifier [0x00007FF7E095E16B+3695259]\n\tGetHandleVerifier [0x00007FF7E09B6737+4057191]\n\tGetHandleVerifier [0x00007FF7E09AE4E3+4023827]\n\tGetHandleVerifier [0x00007FF7E06804F9+689705]\n\t(No symbol) [0x00007FF7E055C048]\n\t(No symbol) [0x00007FF7E0558044]\n\t(No symbol) [0x00007FF7E05581C9]\n\t(No symbol) [0x00007FF7E05488C4]\n\tBaseThreadInitThunk [0x00007FFE87EE7344+20]\n\tRtlUserThreadStart [0x00007FFE892E26B1+33]\n"
+}
