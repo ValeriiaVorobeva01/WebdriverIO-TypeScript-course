@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[@class='lcg-button__wrapper ng-star-inserted']//div[@class='lcg-button__content' and contains(text(), 'Войти')]"
+}

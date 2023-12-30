@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div[class='lcg-button__content' and contains(text(), 'Войти')]"
+}
